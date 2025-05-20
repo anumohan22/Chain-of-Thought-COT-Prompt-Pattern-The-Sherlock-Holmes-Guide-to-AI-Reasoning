@@ -16,7 +16,8 @@ To make this concept more engaging and accessible, we've structured the guide ar
 
 Whether you're a prompt engineer, AI researcher, educator, or curious Sherlockian, this guide offers both the theoretical background and practical tools to implement COT prompts across diverse domains—from finance to healthcare, from tutoring systems to fraud detection.
 
-📎 You can also explore this guide in Notion here: [[https://www.notion.so/Chain-of-Thought-COT-Prompt-Pattern-The-Sherlock-Holmes-Guide-to-AI-Reasoning-1f59a616fe64802a8b7ae0bba3ca7869#1f89a616fe648088a241c333150023f1]([https://heathered-bowl-064.notion.site/Chain-of-Thought-COT-Prompt-Pattern-The-Sherlock-Holmes-Guide-to-AI-Reasoning-1f59a616fe64802a8b7ae0bba3ca7869)](https://www.notion.so/Chain-of-Thought-COT-Prompt-Pattern-The-Sherlock-Holmes-Guide-to-AI-Reasoning-1f59a616fe64802a8b7ae0bba3ca7869#1f89a616fe648088a241c333150023f1](https://heathered-bowl-064.notion.site/Chain-of-Thought-COT-Prompt-Pattern-The-Sherlock-Holmes-Guide-to-AI-Reasoning-1f59a616fe64802a8b7ae0bba3ca7869))
+📎 You can also explore this guide in Notion here: [https://heathered-bowl-064.notion.site/Chain-of-Thought-COT-Prompt-Pattern-The-Sherlock-Holmes-Guide-to-AI-Reasoning-1f59a616fe64802a8b7ae0bba3ca7869](https://heathered-bowl-064.notion.site/Chain-of-Thought-COT-Prompt-Pattern-The-Sherlock-Holmes-Guide-to-AI-Reasoning-1f59a616fe64802a8b7ae0bba3ca7869)
+
 
 
 ---
